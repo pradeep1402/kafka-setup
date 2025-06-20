@@ -1,4 +1,5 @@
 # Kafka
+
 # 🛍️ Apache Kafka Local Setup — Step-by-Step (macOS, Homebrew)
 
 ---
@@ -153,4 +154,3 @@ bat --highlight-line 30:+10 ~/.zsh_history
 Highlights specific lines in your shell history for inspection.
 
 ---
-

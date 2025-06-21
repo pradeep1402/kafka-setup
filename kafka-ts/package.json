@@ -1,0 +1,7 @@
+{
+  "name": "kafka-ts",
+  "version": "1.0.0",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
